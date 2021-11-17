@@ -3,4 +3,4 @@ Simple python script to Reset Cpanel Email Account Password Remotely via cpanel 
 
 Execution example on Windows 10:
 
-```python3 .\resetPasswordCpanel.py -f .\resetEmailPasswordCpanel.xlsx```
+```python3 .\resetPasswordCpanel.py -f .\resetemailpasswordcpanel.xlsx```
